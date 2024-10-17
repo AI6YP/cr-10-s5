@@ -16,6 +16,7 @@
 
 * https://github.com/bigtreetech/BTT-TFT35-E3-V3.0
 * https://youtu.be/swbyu4ZNq9I
+* https://youtu.be/3jxoESanLCA
 
 ### Firmware
 
